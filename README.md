@@ -14,5 +14,6 @@ Tech Stack
 - JavaScript – Interactive elements and functionality
 
 Purpose
+
 This portfolio is a continuous work in progress, reflecting my growth in software development. I will regularly update it with new projects, skills, certifications, and achievements as I explore new technologies and gain hands-on experience.
 Built with curiosity, creativity, and a passion for learning.
